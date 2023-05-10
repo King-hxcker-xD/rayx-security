@@ -15,7 +15,7 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 
 ## Support
 
-<a href="https://discord.com/mrontop"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=AnoF&button_colour=FF5F5F&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://discord.gg/mrontop"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=AnoF&button_colour=FF5F5F&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 <a href="https://github.com/sponsors/king-hxcker-xd"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor Anof-cyber" width="230" height="50"></a>
 
